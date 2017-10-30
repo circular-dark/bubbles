@@ -1,9 +1,14 @@
+# Android Studio
 *.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
+.idea/
+
+# Gradle
+.gradle/
+build/
+
+# Mac
 .DS_Store
-/build
+
+/local.properties
 /captures
 .externalNativeBuild
